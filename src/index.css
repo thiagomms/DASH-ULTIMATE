@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-tick-dark {
+  fill: #fff !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+}
+.custom-tick-light {
+  fill: #222 !important;
+  color: #222 !important;
+  font-weight: 700 !important;
+}
+
+body.dark .recharts-cartesian-axis-tick tspan {
+  fill: #fff !important;
+}
+body:not(.dark) .recharts-cartesian-axis-tick tspan {
+  fill: #222 !important;
+}
