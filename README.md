@@ -1,3 +1,6 @@
+![](https://github.com/thiagomms/DASH-ULTIMATE/blob/main/gif1.gif)
+![](https://github.com/thiagomms/DASH-ULTIMATE/blob/main/gif2.gif)
+
 # Dashboard Comercial
 
 Dashboard moderno e dinâmico para visualização de dados comerciais, integrado ao Supabase, com gráficos profissionais, dark/light mode e layout responsivo.
